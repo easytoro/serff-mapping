@@ -3,8 +3,6 @@ from streamlit_folium import st_folium
 import pandas as pd
 from pathlib import Path
 from folium.plugins import MarkerCluster
-import yaml # Keeping this import as it was in your original code
-from yaml.loader import SafeLoader # Keeping this import as it was in your original code
 
 # --- Page Configuration (MUST be at the very top, before any st. calls) ---
 st.set_page_config(
