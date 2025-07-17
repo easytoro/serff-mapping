@@ -1,6 +1,7 @@
 .venv/
 notebooks/
-maps/
+/maps/
+!data/maps/
 data/duckdb/
 data/raw/
 data/processed/
