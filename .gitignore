@@ -1,0 +1,9 @@
+.venv/
+notebooks/
+maps/
+data/duckdb/
+data/raw/
+data/processed/
+launch.bat
+.streamlit/
+README.md

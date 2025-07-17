@@ -1,0 +1,51 @@
+id,name,is_multispecialty_clinic,is_multispecialty_clinic_capped_viz
+NH,New Hampshire,483,452.84999999999997
+AR,Arkansas,462,452.84999999999997
+TX,Texas,456,452.84999999999997
+CA,California,449,449.0
+MI,Michigan,429,429.0
+AZ,Arizona,422,422.0
+NM,New Mexico,415,415.0
+ME,Maine,395,395.0
+NC,North Carolina,394,394.0
+MD,Maryland,381,381.0
+WV,West Virginia,380,380.0
+NV,Nevada,378,378.0
+ID,Idaho,358,358.0
+RI,Rhode Island,336,336.0
+FL,Florida,332,332.0
+IL,Illinois,329,329.0
+GA,Georgia,324,324.0
+ND,North Dakota,317,317.0
+HI,Hawaii,301,301.0
+DE,Delaware,295,295.0
+KY,Kentucky,295,295.0
+KS,Kansas,292,292.0
+VT,Vermont,289,289.0
+NE,Nebraska,286,286.0
+WA,Washington,280,280.0
+CO,Colorado,274,274.0
+OH,Ohio,246,246.0
+WY,Wyoming,246,246.0
+VA,Virginia,240,240.0
+MO,Missouri,238,238.0
+OK,Oklahoma,237,237.0
+MT,Montana,236,236.0
+IN,Indiana,228,228.0
+MN,Minnesota,222,222.0
+TN,Tennessee,220,220.0
+SD,South Dakota,194,194.0
+SC,South Carolina,186,186.0
+WI,Wisconsin,165,165.0
+AK,Alaska,146,146.0
+LA,Louisiana,131,131.0
+OR,Oregon,120,120.0
+MA,Massachusetts,114,114.0
+IA,Iowa,84,84.0
+PA,Pennsylvania,84,84.0
+NJ,New Jersey,78,78.0
+UT,Utah,75,75.0
+CT,Connecticut,62,62.0
+NY,New York,53,53.0
+MS,Mississippi,52,52.0
+AL,Alabama,29,29.0

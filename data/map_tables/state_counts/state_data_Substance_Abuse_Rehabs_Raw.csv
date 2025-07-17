@@ -1,0 +1,51 @@
+id,name,is_substance_abuse_rehab,is_substance_abuse_rehab_capped_viz
+MI,Michigan,194,177.49999999999997
+MS,Mississippi,186,177.49999999999997
+VT,Vermont,182,177.49999999999997
+MT,Montana,172,172.0
+UT,Utah,160,160.0
+WA,Washington,154,154.0
+CO,Colorado,154,154.0
+NC,North Carolina,152,152.0
+PA,Pennsylvania,147,147.0
+OH,Ohio,146,146.0
+MO,Missouri,141,141.0
+WY,Wyoming,135,135.0
+MN,Minnesota,129,129.0
+OK,Oklahoma,128,128.0
+AZ,Arizona,115,115.0
+ID,Idaho,114,114.0
+NE,Nebraska,114,114.0
+FL,Florida,113,113.0
+GA,Georgia,111,111.0
+NV,Nevada,106,106.0
+NY,New York,102,102.0
+TX,Texas,100,100.0
+DE,Delaware,100,100.0
+ND,North Dakota,90,90.0
+CT,Connecticut,85,85.0
+WI,Wisconsin,82,82.0
+IA,Iowa,82,82.0
+AR,Arkansas,80,80.0
+AK,Alaska,75,75.0
+KY,Kentucky,74,74.0
+ME,Maine,70,70.0
+IL,Illinois,69,69.0
+NH,New Hampshire,67,67.0
+MA,Massachusetts,66,66.0
+KS,Kansas,61,61.0
+AL,Alabama,58,58.0
+MD,Maryland,53,53.0
+RI,Rhode Island,48,48.0
+OR,Oregon,45,45.0
+NM,New Mexico,45,45.0
+HI,Hawaii,38,38.0
+VA,Virginia,37,37.0
+TN,Tennessee,37,37.0
+WV,West Virginia,36,36.0
+LA,Louisiana,24,24.0
+IN,Indiana,22,22.0
+SC,South Carolina,22,22.0
+NJ,New Jersey,20,20.0
+CA,California,19,19.0
+SD,South Dakota,8,8.0

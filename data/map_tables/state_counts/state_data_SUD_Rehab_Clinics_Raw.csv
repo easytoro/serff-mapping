@@ -1,0 +1,51 @@
+id,name,is_sud_rehab_clinic,is_sud_rehab_clinic_capped_viz
+FL,Florida,143,139.1
+LA,Louisiana,141,139.1
+KY,Kentucky,140,139.1
+NC,North Carolina,138,138.0
+IN,Indiana,137,137.0
+KS,Kansas,136,136.0
+WA,Washington,134,134.0
+ID,Idaho,134,134.0
+IA,Iowa,123,123.0
+MT,Montana,118,118.0
+WY,Wyoming,110,110.0
+HI,Hawaii,110,110.0
+CA,California,109,109.0
+MN,Minnesota,108,108.0
+CO,Colorado,108,108.0
+AK,Alaska,105,105.0
+PA,Pennsylvania,101,101.0
+DE,Delaware,98,98.0
+NE,Nebraska,98,98.0
+NJ,New Jersey,97,97.0
+NV,Nevada,91,91.0
+AL,Alabama,91,91.0
+TX,Texas,87,87.0
+WI,Wisconsin,78,78.0
+GA,Georgia,77,77.0
+RI,Rhode Island,75,75.0
+AZ,Arizona,74,74.0
+ME,Maine,71,71.0
+OH,Ohio,67,67.0
+VT,Vermont,66,66.0
+NY,New York,62,62.0
+TN,Tennessee,60,60.0
+OR,Oregon,58,58.0
+MA,Massachusetts,55,55.0
+NH,New Hampshire,54,54.0
+MO,Missouri,53,53.0
+SD,South Dakota,52,52.0
+SC,South Carolina,52,52.0
+MI,Michigan,48,48.0
+AR,Arkansas,41,41.0
+WV,West Virginia,39,39.0
+CT,Connecticut,28,28.0
+IL,Illinois,25,25.0
+VA,Virginia,16,16.0
+MD,Maryland,16,16.0
+MS,Mississippi,13,13.0
+OK,Oklahoma,12,12.0
+ND,North Dakota,10,10.0
+UT,Utah,10,10.0
+NM,New Mexico,6,6.0
